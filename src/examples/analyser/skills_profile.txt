@@ -1,0 +1,16 @@
+Technical Skills:
+- TypeScript, Python, React, Node.js
+- AWS (Lambda, DynamoDB, S3, EventBridge)
+- Data Engineering: Kafka, Spark, Iceberg
+- IoT and OCPP protocols
+- Frontend: React, Next.js
+
+Domain Expertise:
+- Energy sector (EV charging, BESS)
+- National Grid ESO integration
+- Team management and leadership
+
+Experience:
+- Senior engineering roles
+- Led engineering teams
+- Built scalable serverless architectures
