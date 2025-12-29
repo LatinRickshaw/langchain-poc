@@ -7,6 +7,9 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.document_loaders import TextLoader
 from langchain_core.tools import Tool
 
+# Disable tokenizer parallelism warnings (set to "true" for better performance)
+os.environ["TOKENIZERS_PARALLELISM"] = "true"
+
 # Initialize the LLM
 llm = ChatAnthropic(
     model="claude-sonnet-4-20250514",
